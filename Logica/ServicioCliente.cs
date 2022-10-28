@@ -7,5 +7,6 @@ namespace Logica
 {
     public class ServicioCliente : IserviceCliente
     {
+       
     }
 }
