@@ -12,7 +12,7 @@ using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace Gestion_Ciber_Cafe_GUI
 {
-    public partial class Login : Form
+    public partial class Login : Form   //fuap
     {
         Logica.Procesamiento procesamiento = new Logica.Procesamiento();
         public Login()
