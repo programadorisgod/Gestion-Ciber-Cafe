@@ -131,7 +131,7 @@ namespace Gestion_Ciber_Cafe_GUI
             labelError.Text = "    " + msg;
             labelError.Visible = true;
         }
-<<<<<<< HEAD
+
 
         private void txtUsuario_KeyDown(object sender, KeyEventArgs e)
         {
@@ -168,7 +168,6 @@ namespace Gestion_Ciber_Cafe_GUI
                 txtUsuario.Focus();
             }
         }
-=======
->>>>>>> d3103f5ab1e675e1f037628da66a81cbda63ff95
+
     }
 }
